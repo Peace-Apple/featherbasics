@@ -1,1 +1,1 @@
-A simple messaging app to learn the basics of FeatherJS
+A simple messaging app to learn the basics of FeatherJS from scratch
